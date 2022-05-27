@@ -78,3 +78,4 @@ def save_exel(data):
     writer.save()
     print(f'Данные сохранены в файл "data.xlsx"')
 
+ 
