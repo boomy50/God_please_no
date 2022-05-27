@@ -77,4 +77,3 @@ def save_exel(data):
     newdataframe.to_excel(writer, 'data')
     writer.save()
     print(f'Данные сохранены в файл "data.xlsx"')
-
